@@ -1,1 +1,1 @@
-Academia Java Xideral
+Academia Java
